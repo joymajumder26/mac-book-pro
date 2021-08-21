@@ -1,0 +1,17 @@
+
+
+.btn:hover{
+   
+    background:black;
+    transition: 1s;
+    color: honeydew;
+}
+@media only screen and (max-width: 700px){
+ 
+ img{
+      
+      width: 100% !important;
+      height: 100% !important;
+      
+  }
+}
